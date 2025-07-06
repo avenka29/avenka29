@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Adith!
-👩🏻‍🎓 Studying [Computer Science]at North Carolina State University, Raleigh<br/>
-💭 Currently learning about data analytics, machine learning, and Spring Boot development<br/>
+👩🏻‍🎓 Studying Computer Science at North Carolina State University, Raleigh<br/>
+💭 Currently learning about machine learning, and Spring Boot development<br/>
 
 
 # 💻 Languages
