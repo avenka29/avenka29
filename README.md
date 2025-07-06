@@ -1,9 +1,3 @@
-<!-- Level 3: Add custom code -->
-
-# 👋 Hi, I'm Adith!
-👩🏻‍🎓 Studying Computer Science at North Carolina State University, Raleigh<br/>
-💭 Currently learning about machine learning and Spring Boot development<br/>
-
 
 # 💻 Languages & Tech
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
