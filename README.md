@@ -17,27 +17,23 @@
 
 # 🚧 Current Projects
 
-### 🧠 [UFC Analytics Platform] [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/StrikeStat)
+### 🧠 [UFC Analytics Platform]   [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/StrikeStat)
 A sports data analytics platform for the UFC, enabling fans to explore advanced statistics
 - 📊 Tech: Python, FastAPI, React.js, Tailwind CSS
-- 🤖 Adding: Vector database + chatbot using LangChain & Fight Predictions using Machine Learning
+- 🤖 Adding: Vector database + chatbot using LangChain & fight predictions using machine learning
 
 ---
 
-### 🎢 Theme Park Routing App
-A graph-based routing engine for optimizing visitor paths in theme parks
+### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/restaurant-recommendation)
+A personalized restaurant recommendation engine utilizing graph-based algorithm design  
+- 📊 Tech: Java, Supabase, Spring Boot, PostgreSQL, Graph Algorithms, REST APIs  
+- 🤖 Adding: CLI interaction and optimizing graph algorithm recommendations
 
-- 📍 Features: Shortest path with constraints (wait time, interests)
-- 🔧 Tech: Java, Dijkstra's Algorithm, Custom Data Structures
+  ### 🥋 Martial Arts Pose Classification [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/martial-arts-pose-classification)
+Developed a machine learning model to classify martial arts positions using human body keypoints with 85% accuracy
+- 📊 Tech: Python, YOLOv11, Scikit-Learn, OpenCV
+- 🤖 Adding: Frame-by-Frame using OpenCV + LSTM for pattern analysis over time
 
----
 
-### 🎒 Lost & Found Platform for Students
-A full-stack platform to report and recover lost items anonymously
 
-- 🔒 Features: Anonymous chat, moderator review, notifications
-- 💻 Tech: Spring Boot, Firebase, REST APIs, React
-
----
-
-### 🚗
+###
