@@ -19,7 +19,7 @@ A sports data analytics platform for the UFC, enabling fans to explore advanced 
 
 ---
 
-### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/restaurant-recommendation)
+### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/RestaurantEngine)
 A personalized restaurant recommendation engine utilizing graph-based algorithm design  
 - 📱 Tech: Java, Supabase, Spring Boot, PostgreSQL, Graph Algorithms, REST APIs  
 - 🤖 Adding: CLI interaction and optimizing graph algorithm recommendations
