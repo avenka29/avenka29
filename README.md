@@ -14,19 +14,19 @@
 
 ### 🧠 [UFC Analytics Platform]   [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/StrikeStat)
 A sports data analytics platform for the UFC, enabling fans to explore advanced statistics
-- 📊 Tech: Python, FastAPI, React.js, Tailwind CSS
+- 📱 Tech: Python, FastAPI, React.js, Tailwind CSS
 - 🤖 Adding: Vector database + chatbot using LangChain & fight predictions using machine learning
 
 ---
 
 ### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/restaurant-recommendation)
 A personalized restaurant recommendation engine utilizing graph-based algorithm design  
-- 📊 Tech: Java, Supabase, Spring Boot, PostgreSQL, Graph Algorithms, REST APIs  
+- 📱 Tech: Java, Supabase, Spring Boot, PostgreSQL, Graph Algorithms, REST APIs  
 - 🤖 Adding: CLI interaction and optimizing graph algorithm recommendations
 
 ### 🥋 Martial Arts Pose Classification [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/martial-arts-pose-classification)
 Developed a machine learning model to classify martial arts positions using human body keypoints with 85% accuracy
-- 📊 Tech: Python, YOLOv11, Scikit-Learn, OpenCV
+- 📱 Tech: Python, YOLOv11, Scikit-Learn, OpenCV
 - 🤖 Adding: Frame-by-Frame using OpenCV + LSTM for pattern analysis over time
 
 
