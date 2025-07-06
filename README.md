@@ -15,3 +15,30 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+# 🚧 Current Projects
+
+### 🧠 UFC Stats Analytics Platform
+Using web scraping, data visualization, and potentially RAG-based chatbots to provide fighter stats and predictions
+
+- 📊 Tech: Python, Pandas, Matplotlib, FastAPI
+- 🤖 Adding: Vector database + chatbot using LangChain
+
+---
+
+### 🎢 Theme Park Routing App
+A graph-based routing engine for optimizing visitor paths in theme parks
+
+- 📍 Features: Shortest path with constraints (wait time, interests)
+- 🔧 Tech: Java, Dijkstra's Algorithm, Custom Data Structures
+
+---
+
+### 🎒 Lost & Found Platform for Students
+A full-stack platform to report and recover lost items anonymously
+
+- 🔒 Features: Anonymous chat, moderator review, notifications
+- 💻 Tech: Spring Boot, Firebase, REST APIs, React
+
+---
+
+### 🚗
