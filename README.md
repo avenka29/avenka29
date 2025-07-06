@@ -29,4 +29,4 @@ A personalized restaurant recommendation engine utilizing graph-based algorithm 
 ### 🥋 Martial Arts Pose Classification [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/adithvenkatesh/martial-arts-pose-classification)
 Developed a machine learning model to classify martial arts positions using human body keypoints with 85% accuracy
 - 📱 Tech: Python, YOLOv11, Scikit-Learn, OpenCV
-- 🤖 Adding: Frame-by-Frame using OpenCV + LSTM for pattern analysis over time
+- 🤖 Adding: Frame-by-Frame video analysis using OpenCV + LSTM for pattern analysis over time
