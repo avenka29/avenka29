@@ -17,11 +17,10 @@
 
 # 🚧 Current Projects
 
-### 🧠 UFC Stats Analytics Platform
-Using web scraping, data visualization, and potentially RAG-based chatbots to provide fighter stats and predictions
-
-- 📊 Tech: Python, Pandas, Matplotlib, FastAPI
-- 🤖 Adding: Vector database + chatbot using LangChain
+### 🧠 [UFC Analytics Platform] [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/StrikeStat)
+A sports data analytics platform for the UFC, enabling fans to explore advanced statistics
+- 📊 Tech: Python, FastAPI, React.js, Tailwind CSS
+- 🤖 Adding: Vector database + chatbot using LangChain & Fight Predictions using Machine Learning
 
 ---
 
