@@ -22,14 +22,14 @@ A sports data analytics platform for the UFC, enabling fans to explore advanced 
 
 ---
 
-### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/RestaurantEngine)
+### 🍽️ Restaurant Recommendation Engine [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/CourseAI)
 A personalized restaurant recommendation engine utilizing graph-based algorithm design  
 - 📱 Tech: Java, Supabase, Spring Boot, PostgreSQL, Graph Algorithms, REST APIs  
 - 🤖 Adding: CLI interaction and optimizing graph algorithm recommendations
 
 ---
 
-### 🥋 Martial Arts Pose Classification [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/PoseClassification)
-Developed a machine learning model to classify martial arts positions using human body keypoints with 85% accuracy
-- 📱 Tech: Python, YOLOv11, Scikit-Learn, OpenCV
-- 🤖 Adding: Frame-by-Frame video analysis using OpenCV + LSTM for pattern analysis over time
+### 🤖CourseAI [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/PoseClassification)
+Developed an AI agent to assist college students with coursework and time management 
+- 📱 Tech: LangChain, ChromaDB, MCP, Python, GenAI, RAG, LLMs
+- 🤖 Adding: User interaction and improving RAG effeciency with better document chunking process
