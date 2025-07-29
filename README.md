@@ -29,7 +29,7 @@ A personalized restaurant recommendation engine utilizing graph-based algorithm 
 
 ---
 
-### 🤖CourseAI [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/CourseAI)
+### 🤖 CourseAI [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/avenka29/CourseAI)
 Developed an AI agent to assist college students with coursework and time management 
 - 📱 Tech: LangChain, ChromaDB, MCP, Python, GenAI, RAG, LLMs
 - 🤖 Adding: User interaction and improving RAG effeciency with better document chunking process
